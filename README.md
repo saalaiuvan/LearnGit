@@ -1,4 +1,4 @@
 # LearnGit
 Practicing git
 
-hi hello 
+hi 
